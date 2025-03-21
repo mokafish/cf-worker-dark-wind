@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dark-wind",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "830cf746-0b13-47cb-a36e-0fa55da1fc55",
+      "database_name": "dark-wind-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
